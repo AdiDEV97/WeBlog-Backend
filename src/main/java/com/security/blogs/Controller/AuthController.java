@@ -17,6 +17,8 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.web.bind.annotation.*;
 
+// Auth Controller
+
 @RestController
 @CrossOrigin(origins = "http://localhost:3000/")
 @RequestMapping("api/v1/auth")
