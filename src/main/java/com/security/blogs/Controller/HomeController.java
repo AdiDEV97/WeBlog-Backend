@@ -3,6 +3,8 @@ package com.security.blogs.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+// Home Controlller
+
 @RestController
 public class HomeController {
 
