@@ -6,6 +6,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
 
+// Comment Repository
+
 public interface CommentRepo extends JpaRepository<Comment, Integer> {
 
     List<Comment> findByPosts(Posts posts);
