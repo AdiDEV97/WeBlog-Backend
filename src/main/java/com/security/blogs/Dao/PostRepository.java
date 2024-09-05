@@ -7,6 +7,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
 
+// Post Repository
+
 public interface PostRepository extends JpaRepository<Posts, Integer> {
 
     List<Posts> findByUser(User user);
