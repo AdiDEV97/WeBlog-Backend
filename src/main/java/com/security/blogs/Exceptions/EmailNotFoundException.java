@@ -2,6 +2,8 @@ package com.security.blogs.Exceptions;
 
 import lombok.Data;
 
+// Email Not Found Exception
+
 @Data
 public class EmailNotFoundException extends RuntimeException{
 
