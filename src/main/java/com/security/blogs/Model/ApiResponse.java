@@ -2,6 +2,8 @@ package com.security.blogs.Model;
 
 import lombok.Data;
 
+// Api Response
+
 @Data
 public class ApiResponse {
 
