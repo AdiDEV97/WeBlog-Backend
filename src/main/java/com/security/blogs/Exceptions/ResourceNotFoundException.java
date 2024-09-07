@@ -4,6 +4,8 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+// Resource Not Found Exception
+
 @Getter
 @Setter
 @ToString
