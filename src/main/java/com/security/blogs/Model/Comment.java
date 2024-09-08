@@ -7,6 +7,8 @@ import javax.persistence.*;
 import javax.validation.constraints.Size;
 import java.util.Date;
 
+// Comment Class
+
 @Entity
 @Data
 public class Comment {
