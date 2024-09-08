@@ -9,6 +9,8 @@ import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
 import java.util.*;
 
+// Post Class
+
 @Entity(name = "posts_table")
 @Data
 public class Posts {
