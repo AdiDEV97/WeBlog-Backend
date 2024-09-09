@@ -15,6 +15,8 @@ import javax.validation.constraints.Size;
 import java.util.*;
 import java.util.stream.Collectors;
 
+// User Class
+
 @Entity
 @Data
 public class User implements UserDetails {
