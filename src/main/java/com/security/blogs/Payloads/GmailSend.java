@@ -6,6 +6,8 @@ import jakarta.mail.internet.MimeMessage;
 
 import java.util.Properties;
 
+// Gmail Send Class
+
 public class GmailSend {
 
     public boolean sendGmail(String receiver, String sender, String subject, String text) {
