@@ -2,6 +2,8 @@ package com.security.blogs.Payloads;
 
 import lombok.Data;
 
+// CategoryDto Class
+
 @Data
 public class CategoryDto {
 
