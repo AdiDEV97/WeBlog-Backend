@@ -3,6 +3,8 @@ package com.security.blogs.Payloads;
 import lombok.Data;
 import java.util.Date;
 
+// CommentDto Class
+
 @Data
 public class CommentDto {
 
