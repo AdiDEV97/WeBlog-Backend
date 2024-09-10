@@ -18,6 +18,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+// Jwt Authentication Filter Class
+
 @Component
 public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
