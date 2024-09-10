@@ -2,6 +2,8 @@ package com.security.blogs.Payloads;
 
 import lombok.Data;
 
+// Jwt Auth Response
+
 @Data
 public class JwtAuthResponse {
 
