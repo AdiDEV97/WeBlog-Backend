@@ -8,6 +8,8 @@ import lombok.Data;
 import java.util.HashSet;
 import java.util.Set;
 
+// User Dto class
+
 @Data
 public class UserDto {
 
