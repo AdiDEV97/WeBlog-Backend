@@ -7,6 +7,8 @@ import lombok.Data;
 
 import java.util.*;
 
+// Post Dto Class
+
 @Data
 public class PostDto {
 
