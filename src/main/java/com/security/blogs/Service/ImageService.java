@@ -6,6 +6,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 
+// Image Service
+
 public interface ImageService {
 
     String uploadingImage(String path, MultipartFile image) throws IOException;
