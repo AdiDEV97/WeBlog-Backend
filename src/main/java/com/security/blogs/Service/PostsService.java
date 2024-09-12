@@ -8,6 +8,8 @@ import com.security.blogs.Payloads.PostPaginationResponse;
 
 import java.util.List;
 
+// Post Service
+
 public interface PostsService {
 
     // Get All Posts
