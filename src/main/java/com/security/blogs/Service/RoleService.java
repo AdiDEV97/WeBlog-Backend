@@ -5,6 +5,8 @@ import com.security.blogs.Payloads.RoleDto;
 
 import java.util.List;
 
+// Role Service
+
 public interface RoleService {
 
     List<RoleDto> getAllRoles();
