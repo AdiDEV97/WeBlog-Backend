@@ -6,6 +6,8 @@ import com.security.blogs.Payloads.CommentDto;
 
 import java.util.List;
 
+// Comment Changes
+
 public interface CommentService {
 
     // Get all Comments
