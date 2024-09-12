@@ -5,6 +5,8 @@ import com.security.blogs.Payloads.CategoryDto;
 
 import java.util.List;
 
+// Category Service
+
 public interface CategoryService {
 
     public List<CategoryDto> allCatagories();
