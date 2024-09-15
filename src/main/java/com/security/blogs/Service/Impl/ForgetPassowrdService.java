@@ -4,6 +4,8 @@ import com.security.blogs.Payloads.UserDto;
 
 import java.util.List;
 
+// Forget Password Serivce
+
 public interface ForgetPassowrdService {
 
     UserDto verifyEmailAndUpdatePassword(UserDto userToUpdate, String userEmail);
