@@ -11,6 +11,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
+// JWT Util Class
+
 // This class contains methods for -->
 // - generating token
 // - validate
