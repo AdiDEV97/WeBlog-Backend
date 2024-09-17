@@ -16,6 +16,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// Main Class
+
 @SpringBootApplication
 public class SpringSecurityLearnApplication implements CommandLineRunner {
 
